@@ -23,7 +23,7 @@ const x20Ethereum = '0xC4A941bD540d81247B2B87bAb09832704A4407eE'
   },
 } */
 const mintInfo = {
-    price: 0,
+    price: 0.05,
     totalSupply: 5000,
     minUnits: 1,
     maxUnits: 2,
